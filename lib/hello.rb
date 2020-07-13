@@ -13,4 +13,3 @@ def hello_t(array)
   end
 end
 
-so the code should look something like this because block_given? is a ruby function that checks if a block is given
